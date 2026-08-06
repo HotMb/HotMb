@@ -36,13 +36,6 @@ Je recherche un **contrat d'alternance en développement Fullstack** à partir d
 
 > 💡 Section à ajuster : remplace ces descriptions génériques par 1 phrase précise sur ce que fait chaque projet et pourquoi tu l'as fait. Idéalement, ajoute aussi un projet fullstack complet (frontend + backend + BDD, déployé en ligne) — c'est le signal le plus fort pour une alternance fullstack.
 
-### 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HotMb&show_icons=true&theme=default&hide_border=true" alt="Statistiques GitHub d'Otmane" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HotMb&layout=compact&hide_border=true" alt="Langages les plus utilisés" height="165"/>
-</div>
-
 ### 📫 Me contacter
 
 - 💼 LinkedIn : [otmane-mabrouk](https://www.linkedin.com/in/otmane-mabrouk/)
