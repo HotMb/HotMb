@@ -21,8 +21,8 @@ Je recherche un **contrat d'alternance en développement Fullstack** pour l'ann�
 |---|---|
 | **Langages** | Python, Bash, JavaScript, Java |
 | **Frontend** | React, TypeScript, HTML5/CSS3, TailwindCSS, responsive design |
-| **Backend** | API REST, Node.js, Express, Python, Django, WebSockets, Java, PHP, |
-|             | PostgreSQL, Prisma ORM, Firebase Auth et Firestore |
+| **Backend** | API REST, Node.js, Express, Python, Django, WebSockets, Java, PHP,
+PostgreSQL, Prisma ORM, Firebase Auth et Firestore |
 | **Conception produit** | Analyse du besoin, cahier des charges, définition de MVP, validation des données |
 | **Qualité et DevOps** | Git, Github Actions, CI/CD, Jest, Selenium, Docker, Linux, Railway|
 
